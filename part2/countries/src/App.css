@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.Country {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.ShowBtn {
+  margin-left: 20px;
+  text-align: center;
+}
